@@ -27,3 +27,21 @@
 #Selecttheclass{
     margin-left: 38px;
 }
+body{
+    background-color: cornflowerblue;
+
+}
+p{
+    color: white;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+button{
+    text-align: center;
+    margin-left: 400;
+    background-color: red;
+    color: white
+    ;
+}
